@@ -27,7 +27,7 @@ const Footer = () => {
                 transform your environment. Your trusted partner for premium
                 surface products in Pakistan.
               </p>
-              <div className="footer-social mt-5">
+              <div className="footer-social">
                 <Button
                   href="#"
                   className="social-btn facebook border-0 d-flex align-items-center justify-content-center"
