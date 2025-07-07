@@ -60,9 +60,6 @@ const Contact = () => {
                 order? We're here to help you every step of the way.
               </p>
             </Col>
-            <Col lg={6} className="text-center">
-              <div className="display-1 text-gold">Contact</div>
-            </Col>
           </Row>
         </Container>
       </section>
@@ -209,7 +206,7 @@ const Contact = () => {
                       <p className="contact-text">
                         123 Business Street
                         <br />
-                        Dubai, UAE
+                        Karachi, Pakistan
                         <br />
                         P.O. Box 12345
                       </p>

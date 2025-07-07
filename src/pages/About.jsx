@@ -16,9 +16,6 @@ const About = () => {
                 transforming spaces with premium surface solutions.
               </p>
             </Col>
-            <Col lg={6} className="text-center">
-              <div className="display-1 text-gold">Center Piece</div>
-            </Col>
           </Row>
         </Container>
       </section>
