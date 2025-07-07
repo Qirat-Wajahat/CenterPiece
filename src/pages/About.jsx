@@ -29,7 +29,7 @@ const About = () => {
           <Row className="align-items-center">
             <Col lg={6} className="mb-4 mb-lg-0">
               <img
-                src="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&h=400&fit=crop"
+                src="https://thumbs.dreamstime.com/b/antique-textile-machine-weaving-gold-thread-factory-industrial-heritage-384078445.jpg"
                 alt="Center Piece Store"
                 className="img-fluid rounded shadow"
               />
